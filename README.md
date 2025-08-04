@@ -69,9 +69,10 @@ todo_app_/
 
 ---
 
-## 🙋‍♀️ Author
+## 👩‍💻 Author
 
 **Safia Farheen ZR**  
+Java Full Stack Developer | Capgemini-TNS Trained  
 To-Do App Developer | Java + Angular Enthusiast
 
 ---
